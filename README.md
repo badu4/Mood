@@ -19,10 +19,15 @@ Die Einträge werden lokal auf dem Gerät im Browser gespeichert, das funktionie
 # Dateistruktur
 
 index.html:	"Gerüst" der App also alle sichtbaren Elemente (Slider, Buttons, Textfelder)
+
 styles.css:	Bestimmt, wie alles aussieht (Farben, Abstände, Schrift, Layout)
+
 main.js:	Steuert die App: Klicks, Speichern, Anzeigen, Diagramm bauen
+
 db.js:	Kümmert sich um die lokale Datenbank (IndexedDB)
+
 sw.js:	Macht die App offlinefähig (Service Worker)
+
 manifest.json:	PWA-Einstellungen (App-Name, Icon, Startbildschirm etc.)
 
 # Datenschutz
@@ -33,6 +38,7 @@ Der Code dagegen ist öffentlich zugänglich (unter https://github.com/badu4/Moo
 # Änderungen
 
 Boah, ich kann einfach alles ändern!!
+
 Willst du andere Fragen, Antwortmöglichkeiten, Darstellung, Statistiken, irgendwas? --> Let me know
 
 # Es funktioniert nicht?
