@@ -1,6 +1,6 @@
 {
-  "name": "Kaffeepause",
-  "short_name": "Kaffeepause",
+  "name": "Mood Master Pro",
+  "short_name": "Mood Master Pro",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#f6f8fb",
@@ -10,5 +10,6 @@
     { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
   ]
 }
+
 
 
