@@ -1,6 +1,6 @@
 {
-  "name": "Mood Tracker",
-  "short_name": "Mood",
+  "name": "Kaffeepause",
+  "short_name": "Kaffeepause",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#f6f8fb",
@@ -10,4 +10,5 @@
     { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
   ]
 }
+
 
